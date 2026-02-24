@@ -1,87 +1,84 @@
-# 👋 Hey there! I'm **Shweta Vir**
+<!-- Dynamic Header -->
 
-🎯 **Data Analyst** | SQL • Power BI • MySQL • Excel  
-📍 **Canada**  
-🚀 Turning raw data into insights that drive decisions
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Shweta%20Vir%20|%20Data%20Analyst&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
----
-
-## 🌟 Why You’ll Like My Work
-
-✔️ Business-focused analytics (not just queries)  
-✔️ Clean, optimized SQL  
-✔️ Insightful dashboards & storytelling  
-✔️ Real-world case studies  
-
-I enjoy solving messy problems, finding patterns in data, and explaining insights in a way **non-technical teams actually understand**.
+<!-- Animated Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2C5364&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%7C+Power+BI+%7C+Python;Transforming+Data+Into+Business+Insights;Ex+Software+Developer+%E2%86%92+Analytics+Professional;Open+to+Data+Analyst+Roles" />
+</p>
 
 ---
 
-## 🧠 Tech Stack
+## 👋 About Me
+I’m a **Data Analyst with prior experience as a Software Developer**, passionate about turning raw data into **clear insights that drive business decisions**.
 
-### 📊 Data & Analytics
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![Excel](https://img.shields.io/badge/Excel-Advanced-green)
-
-### ⚙️ Tools
-- MySQL  
-- Power BI (DAX, Data Modeling)  
-- Excel (VLOOKUP, HLOOKUP, Pivot Tables)  
-- Git & GitHub  
+- 📊 Strong in **Data Analyst | Excel • SQL • Power BI • Tableau • Python | Business insights & reporting**
+- 🔍 Experience with **data cleaning, transformation & analysis**
+- 📈 Skilled in **dashboards, KPIs & storytelling**
+- 🧠 Business-focused analytical mindset
+- 📍Toronto, Canada | 💼 Open to opportunities | 🌍 Open to relocation
+  
+---
+![Data Analyst](https://github.com/da-shwetavir/da-shwetavir.github.io/blob/main/images/data_analysis_portfolio_animated_optimized.gif)
 
 ---
 
-## 🚀 Featured Projects
-
-### 📌 **US Baby Names Trend Analysis**
-🔧 *MySQL | Power BI*  
-📈 Analyzed naming trends across decades to identify:
-- Most popular male & female names
-- Emerging trends over time
-- Gender-based popularity patterns  
-
-🔗 **[View Project](link_here)**
-
----
-
-### 🍕 **Pizza Sales Performance Analysis**
-🔧 *MySQL*  
-💰 Business insights from sales data:
-- Revenue trends
-- Best-selling products
-- Peak sales hours  
-
-🔗 **[View Project](link_here)**
+## 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-### 🚗 **Insurance Fraud Detection Case Study**
-🔧 *SQL | Analytics Strategy*  
-🕵️ Identified suspicious claim patterns and proposed:
-- Risk flags
-- Fraud reduction strategies
-- Operational improvements  
 
-🔗 **[View Project](link_here)**
+## 🚀 Featured Data Projects
+| Project | Skills | Description |
+|-------|------|------------|
+| 📈 Sales Performance Dashboard | SQL, Power BI | KPI tracking & revenue insights |
+| 👶 US Baby Names Analysis | MySQL, Power BI | Trend analysis by gender & year |
+| 🚗 Insurance Fraud Detection | SQL, Analytics | Identifying high-risk claims |
+| 🍕 Pizza Sales Analysis | Advanced SQL | Revenue & customer behavior |
 
----
-
-## 📊 What I’m Actively Improving
-
-🔥 Advanced SQL (CTEs, Window Functions)  
-📊 Power BI storytelling & performance tuning  
-📁 Building end-to-end portfolio projects  
+⬇️ **Scroll down to explore repositories**
 
 ---
 
-## 🤝 Let’s Connect
-
-💼 **LinkedIn:** https://www.linkedin.com/in/your-profile  
-📧 **Email:** your.email@email.com  
-💻 **GitHub:** https://github.com/your-username  
+## 📄 Resume
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/raw/main/Shweta_Vir_Data_Analyst_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-2C5364?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-✨ *Open to Data Analyst / Business Analyst opportunities*  
-⭐ *If you like my work, don’t forget to star the repos!*
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/shweta-vir-826b053a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:da.vir.shweta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+## 📊 GitHub Analytics
+ ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=da-shwetavir)
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=da-shwetavir&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- Dynamic Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
+</p>
