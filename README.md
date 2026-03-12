@@ -57,9 +57,9 @@ I’m a **Data Analyst with prior experience as a Software Developer**, passiona
 | 🚗 Insurance Fraud Detection | SQL, Analytics | Identifying high-risk claims |
 | 🍕 Pizza Sales Analysis | Advanced SQL | Revenue & customer behavior |
 
-⬇️ **Scroll down to explore repositories**
+⬇️ **Scroll down to explore repositories**\
+[Projects](https://github.com/da-shwetavir/portfolio_projects/tree/main)
 
----
 
 ## 📄 Resume
 <p align="center">
